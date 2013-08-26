@@ -1,13 +1,16 @@
 {
-    "name": "ft3/fluxkitchen",
-    "require": {
-        "composer/installers": "*"
-    },
+	"name": "ft3/fluxkitchen",
+	"require": {
+		"composer/installers": "*",
+		"ft3/fluidcontent": "*",
+		"ft3/fluidpages": "*",
+		"ft3/ft3_empty": "*"
+	},
 	"type": "typo3-cms-extension",
-    "authors": [
-        {
-            "name": "Cedric Ziel",
-            "email": "cedric@cedric-ziel.com"
-        }
-    ]
+	"authors": [
+		{
+			"name": "Cedric Ziel",
+			"email": "cedric@cedric-ziel.com"
+		}
+	]
 }
